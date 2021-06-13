@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 7451982947751666545}
   - component: {fileID: 7451982947751666550}
   - component: {fileID: 7451982947751666551}
-  - component: {fileID: 7451982947751666548}
   m_Layer: 0
   m_Name: Cinzeiro
   m_TagString: Untagged
@@ -2678,18 +2677,4 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7451982947751666549}
-  m_Mesh: {fileID: 0}
---- !u!64 &7451982947751666548
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7451982947751666549}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
   m_Mesh: {fileID: 0}
